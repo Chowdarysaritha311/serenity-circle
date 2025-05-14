@@ -1,60 +1,73 @@
 
-# Serenity Circle: Community Paths to Peace and Resilience
+# Serenity Circle - Registration Page
 
-**Serenity Circle** is a community-driven platform designed to foster mental well-being and emotional resilience. It provides a safe space for individuals to learn, share, and practice practical stress management techniques.
+Welcome to the **Serenity Circle** project – a clean, responsive, and user-friendly registration page built using **HTML** and **CSS**.
 
-## Project Overview
+---
 
-This project was developed as part of a **Constraint Satisfaction Problem (CSP)** course, focusing on applying **problem-focused coping** strategies. Problem-focused coping involves altering the stressful situation itself—for example, studying for an exam to reduce test anxiety.
+## Live Demo
+
+[View it Live on GitHub Pages](https://chowdarysaritha311.github.io/serenity-circle/)
+
+---
 
 ## Features
 
-- **Stress Management Tips**: Curated practical methods to cope with day-to-day stress.
-- **Interactive Activities**: Breathing exercises, affirmations, and relaxation techniques.
-- **Daily Mood Tracker**: A simple interface to log and reflect on daily emotional states.
-- **Motivational Quotes**: Refreshing quotes to uplift and inspire.
-- **Responsive Design**: Built with HTML, CSS, and JavaScript for an engaging user experience across devices.
+- Modern, minimal design
+- Fully responsive layout
+- Input fields for:
+  - Username
+  - Email
+  - Password
+- "Login" link for existing users
+- Stylish and accessible UI
+- Footer with copyright
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+## Output Screenshot
+
+![Registration Page Screenshot](./output.png)
+
+> **Note:** Rename your uploaded image file to `output.png` and place it in the root of your repository for it to display properly.
+
+---
+
+## Folder Structure
+
+serenity-circle/ ├── index.html ├── style.css ├── output.png └── README.md
+
+---
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/serenity-circle.git
+To view or edit the page locally:
 
-2. Navigate to the project directory:
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Chowdarysaritha311/serenity-circle.git
+
+2. Navigate to the folder
 
 cd serenity-circle
 
 
-3. Open index.html in your browser to explore the app.
+3. Open index.html in your web browser.
 
 
 
-Screenshots
 
-(Include screenshots if available)
+---
 
-Authors
+Author
 
 Saritha Chowdary
+GitHub: Chowdarysaritha311
 
-[Your Teammates' Names, if any]
 
+---
 
 License
 
-This project is open source and available under the MIT License.
-
-Acknowledgements
-
-Mentors and faculty for guidance during the CSP course.
-
-Community contributors and mental health resources.
-
+This project is licensed under the MIT License.
 
